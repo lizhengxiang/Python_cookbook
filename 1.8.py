@@ -10,3 +10,13 @@ print repr(80000l)
 
 temp = 67;
 print "lizhengxinag" + repr(temp)
+
+print '''llllllllll
+jjjjjjjjjjjj
+jjjjjjjjjjjj'''
+
+print """jhjhjhj
+kmk jkhjk
+knk kkh
+bjbjbj"""
+
